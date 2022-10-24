@@ -11,6 +11,7 @@
 //Version 3:
 package Ch7Arrays;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class KaiLanausseWeatherAnalysisModifyed {
@@ -28,6 +29,17 @@ public class KaiLanausseWeatherAnalysisModifyed {
         //Get how many days were above the average temp
         daysAboveAverage(daysTemp, averageTemp);
 
+        System.out.println();
+
+        hottestColdest(daysTemp);
+
+    }
+
+    private static void hottestColdest(int[] daysTemp) {
+        System.out.println("Temperatures: " + Arrays.toString(daysTemp));
+        Arrays.sort(daysTemp);
+        System.out.println("Two coldest days: "+ daysTemp[0] + ", "+ daysTemp[1]);
+        System.out.println("Two hottest days: "+ daysTemp[daysTemp.length-1] + ", "+ daysTemp[daysTemp.length-2]);
     }
 
     /**

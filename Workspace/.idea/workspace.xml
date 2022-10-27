@@ -4,55 +4,46 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="798a9de7-2192-4850-a317-497ef2de24a0" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="798a9de7-2192-4850-a317-497ef2de24a0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Workspace/Ch7Arrays/KaiLanausseMultiplicationTableMod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Workspace/Ch7Arrays/KaiLanausseMultiplicationTableMod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Workspace/Ch7Arrays/KaiLanaussePersonalityTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Workspace/Ch7Arrays/KaiLanausseTraverseRows2DMats.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Workspace/Ch7Arrays/KaiLanausseTraverseRows2DMats.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Workspace/Ch7Arrays/KaiLanausseWeatherAnalysisModifyed.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Workspace/Ch7Arrays/KaiLanausseWeatherAnalysisModifyed.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Workspace/Ch7Arrays/Pratice2DArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Workspace/Ch7Arrays/Pratice2DArrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Workspace/Ch7Arrays/Traverse2DMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Workspace/Ch7Arrays/Traverse2DMatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Workspace/Data/Out/out.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Workspace/Data/Out/oute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Workspace/Data/Out/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Workspace/Data/Out/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Workspace/Personal/DrawingPanel$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Workspace/Personal/DrawingPanel$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Workspace/Personal/DrawingPanel$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Workspace/Personal/DrawingPanel$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Workspace/Personal/DrawingPanel$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Workspace/Personal/DrawingPanel$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Workspace/Personal/DrawingPanel$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Workspace/Personal/DrawingPanel$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Workspace/Personal/DrawingPanel$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Workspace/Personal/DrawingPanel$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Workspace/Personal/DrawingPanel$DPActionListener$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Workspace/Personal/DrawingPanel$DPActionListener$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Workspace/Personal/DrawingPanel$DPActionListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Workspace/Personal/DrawingPanel$DPActionListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Workspace/Personal/DrawingPanel$DPFileFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Workspace/Personal/DrawingPanel$DPFileFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Workspace/Personal/DrawingPanel$DPKeyEventHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Workspace/Personal/DrawingPanel$DPKeyEventHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Workspace/Personal/DrawingPanel$DPKeyEventHandlerAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Workspace/Personal/DrawingPanel$DPKeyEventHandlerAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Workspace/Personal/DrawingPanel$DPMouseEventHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Workspace/Personal/DrawingPanel$DPMouseEventHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Workspace/Personal/DrawingPanel$DPMouseEventHandlerAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Workspace/Personal/DrawingPanel$DPMouseEventHandlerAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Workspace/Personal/DrawingPanel$DPMouseListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Workspace/Personal/DrawingPanel$DPMouseListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Workspace/Personal/DrawingPanel$DPWindowListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Workspace/Personal/DrawingPanel$DPWindowListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Workspace/Personal/DrawingPanel$DebuggingGraphics.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Workspace/Personal/DrawingPanel$DebuggingGraphics.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Workspace/Personal/DrawingPanel$DiffImage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Workspace/Personal/DrawingPanel$DiffImage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Workspace/Personal/DrawingPanel$DirectGif89Frame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Workspace/Personal/DrawingPanel$DirectGif89Frame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Workspace/Personal/DrawingPanel$Gif89Encoder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Workspace/Personal/DrawingPanel$Gif89Encoder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Workspace/Personal/DrawingPanel$Gif89Frame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Workspace/Personal/DrawingPanel$Gif89Frame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Workspace/Personal/DrawingPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Workspace/Personal/DrawingPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch7Arrays/KaiLanaussePersonalityTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Data/Out/out.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Data/Out/oute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Data/Out/output.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Ch7Arrays/IntroInto2DArrays.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Ch7Arrays/KaiLanaussePersonalityTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="45" column="21" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Personal/GravSim.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="54" column="13" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Data/In/personality.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -81,8 +72,13 @@
         <option value="$PROJECT_DIR$/src/Ch7Arrays/Pratice2DArrays.java" />
         <option value="$PROJECT_DIR$/src/Ch7Arrays/KaiLanausseTraverseRows2DMats.java" />
         <option value="$PROJECT_DIR$/src/Ch7Arrays/Traverse2DMatrix.java" />
-        <option value="$PROJECT_DIR$/src/Ch7Arrays/KaiLanaussePersonalityTest.java" />
         <option value="$PROJECT_DIR$/src/Personal/GravSim.java" />
+        <option value="$PROJECT_DIR$/src/Ch7Arrays/KaiLanaussePersonalityTestBACKUP.java" />
+        <option value="$PROJECT_DIR$/src/Ch7Arrays/KaiLanaussePersonalityTest.java" />
+        <option value="$PROJECT_DIR$/src/Ch7Arrays/KaiLanaussePersonalityTestV1.java" />
+        <option value="$PROJECT_DIR$/src/Ch7Arrays/KaiLanaussePersonalityTestV2.java" />
+        <option value="$PROJECT_DIR$/src/Ch8Classes/PointV1.java" />
+        <option value="$PROJECT_DIR$/src/Ch8Classes/PointClient.java" />
       </list>
     </option>
   </component>
@@ -92,12 +88,16 @@
     <option name="width" value="1456" />
     <option name="height" value="876" />
   </component>
+  <component name="ProjectId" id="2GfqT16qzVCMTZ9idmo0gfEeNRK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -115,18 +115,25 @@
               <item name="Workspace" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Personal" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1666374078641" />
-    <property name="extract.method.default.visibility" value="private" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1666806063056" />
+    <property name="extract.method.default.visibility" value="public" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -143,19 +150,7 @@
       <recent name="G:\My Drive\APCS\Workspace" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.GravSim">
+  <component name="RunManager" selected="Application.PointClient">
     <configuration name="GravSim" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Personal.GravSim" />
       <module name="Workspace" />
@@ -169,8 +164,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KaiLanaussePersonalityTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch7Arrays.KaiLanaussePersonalityTest" />
+    <configuration name="KaiLanaussePersonalityTestV1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch7Arrays.KaiLanaussePersonalityTestV1" />
       <module name="Workspace" />
       <extension name="coverage">
         <pattern>
@@ -182,12 +177,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch7Arrays.MultiplicationTable" />
+    <configuration name="PointClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch8Classes.PointClient" />
       <module name="Workspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ch7Arrays.*" />
+          <option name="PATTERN" value="Ch8Classes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -222,22 +217,23 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MultiplicationTable" />
       <item itemvalue="Application.Traverse2DMatrix" />
       <item itemvalue="Application.Pratice2DArrays" />
-      <item itemvalue="Application.KaiLanaussePersonalityTest" />
+      <item itemvalue="Application.KaiLanaussePersonalityTestV1" />
       <item itemvalue="Application.GravSim" />
+      <item itemvalue="Application.PointClient" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PointClient" />
+        <item itemvalue="Application.KaiLanaussePersonalityTestV1" />
         <item itemvalue="Application.GravSim" />
-        <item itemvalue="Application.KaiLanaussePersonalityTest" />
         <item itemvalue="Application.Pratice2DArrays" />
         <item itemvalue="Application.Traverse2DMatrix" />
-        <item itemvalue="Application.MultiplicationTable" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -255,7 +251,7 @@
     <frame x="-8" y="-8" width="1456" height="886" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.38649425" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3994253" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -264,13 +260,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49928162" weight="0.3297587" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.48778737" visible="true" weight="0.32841823" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48635057" visible="true" weight="0.32841823" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.51221263" side_tool="true" visible="true" weight="0.32841823" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5136494" side_tool="true" visible="true" weight="0.32841823" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49928162" weight="0.3292683" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -282,9 +278,6 @@
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
     </layout>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/function/IntConsumer.java">
@@ -298,20 +291,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="748">
           <caret line="44" selection-start-line="44" selection-end-line="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch7Arrays/KaiLanausseWeatherAnalysisV2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="29" column="35" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch7Arrays/KaiLanausseWeatherAnalysisV3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="15" column="13" selection-end-line="92" />
         </state>
       </provider>
     </entry>
@@ -343,24 +322,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch7Arrays/ArrayTallyV2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/lang/reflect/Method.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="56">
           <caret line="566" selection-start-line="566" selection-end-line="566" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch7Arrays/MultiplicationTable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
         </state>
       </provider>
     </entry>
@@ -385,26 +350,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch7Arrays/IntroInto2DArrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Data/In/personality.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch7Arrays/KaiLanaussePersonalityTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="45" column="21" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Personal/GravSim.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="211">
@@ -412,6 +357,105 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch7Arrays/KaiLanaussePersonalityTestBACKUP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="44" column="56" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Data/Out/tttt.tttttt" />
+    <entry file="file://$PROJECT_DIR$/src/Data/In/personality.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="42" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Data/Out/outtttputttt.txt" />
+    <entry file="file://$PROJECT_DIR$/src/Data/Out/ourr.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch7Arrays/MultiplicationTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch7Arrays/IntroInto2DArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch7Arrays/ArrayTallyV2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch7Arrays/KaiLanausseWeatherAnalysisV2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch7Arrays/KaiLanausseWeatherAnalysisV3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch7Arrays/KaiLanaussePersonalityTestV1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="110" selection-start-line="1" selection-start-column="110" selection-end-line="1" selection-end-column="110" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Data/Out/output.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch7Arrays/KaiLanaussePersonalityTestV2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-578">
+          <caret line="2" column="65" lean-forward="true" selection-start-line="2" selection-start-column="65" selection-end-line="2" selection-end-column="65" />
+          <folding>
+            <element signature="method#writeResults#0;class#KaiLanaussePersonalityTestV2#0" />
+            <element signature="method#getInputFile#0;class#KaiLanaussePersonalityTestV2#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch8Classes/PointV1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="653">
+          <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch8Classes/PointClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
         </state>
       </provider>
     </entry>

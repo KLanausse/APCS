@@ -30,12 +30,14 @@ public class KaiLanaussePersonalityTestV2 {
 
     }
 
-    /**
-     * Will parse the file given by the user with the responses and output the results to a file specified by the user
-     * @param fileInput The file given by the user with the responses
-     * @param fileOutput The output specified by the user
-     */
     public static void parseData(Scanner fileInput, PrintStream fileOutput) {
+        char[][] types = {
+                {'E', 'I'},
+                {'S', 'N'},
+                {'T', 'F'},
+                {'J', 'P'}
+        };
+
         //Start Parsing data
         while (fileInput.hasNextLine()){
             String name = fileInput.nextLine();
@@ -59,18 +61,11 @@ public class KaiLanaussePersonalityTestV2 {
 
             }
 
-            //
             int[] bPercent = new int[4];
             for (int i = 0; i < 4 ; i++) {
                 bPercent[i] = bCount[i]*100 / (bCount[i]+aCount[i]);
             }
 
-            char[][] types = {
-                    {'E', 'I'},
-                    {'S', 'N'},
-                    {'T', 'F'},
-                    {'J', 'P'}
-            };
             String type = "";
 
             //Decide Type
@@ -85,21 +80,11 @@ public class KaiLanaussePersonalityTestV2 {
                 }
 
             }
-
             writeResults(fileOutput, name, aCount, bCount, bPercent, type);
 
         }
     }
 
-    /**
-     * Will format and write or append the given data to an output file
-     * @param fileOutput The file to write ti
-     * @param name Name of the respondent
-     * @param aCount Number of 'a' Answers for each type
-     * @param bCount Number of 'b' Answers for each type
-     * @param bPercent The percent of 'b' answers compared to the total number of questions answered for each type
-     * @param type Personality Type
-     */
     public static void writeResults(PrintStream fileOutput, String name, int[] aCount, int[] bCount, int[] bPercent, String type) {
         //Write to output file
         fileOutput.println(name +":");
@@ -112,10 +97,6 @@ public class KaiLanaussePersonalityTestV2 {
         System.out.println();
     }
 
-    /**
-     * Gets the input file from the user. Will retry until a valid file is given
-     * @return
-     */
     public static Scanner getInputFile() {
         boolean fileExists = false;
         Scanner fileInput = new Scanner("");

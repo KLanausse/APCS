@@ -1,17 +1,33 @@
 /**
- * This program is a blueprint for creating point objects on a cartesian coordinate
+ * This program is a blueprint for creating point objects on a cartesian coordinate.
+ * Version 2: This version will add constructors
  *
  * @author: Kai Lanausse
  * @since: October 26, 2022
- * @version: 1.0
+ * @version: 2.0
  */
 package Ch8Classes;
 
-public class PointV1 {
+public class PointV2 {
     //State (To store the data of an object)
         //synonyms - fields, instance variables, state fields
     public int x;
     public int y;
+
+    //Constructor(s) - used to init all fields
+        //A constructor gets called implicitly when an object is instantiated used the keyword new
+        //A constructor does NOT have a return type
+    public PointV2 (int x, int y){
+        this.x = x;
+        this.y = y;
+    }
+
+    //Default constructor
+        //the default constructor is deleted when you create your own constructor with params
+    public PointV2 (){
+        this.x = 0;
+        this.y = 0;
+    }
 
     //Behaviors (methods that you can call to update the state)
         //Setters (are void methods. ex. Deposit money)
@@ -42,7 +58,7 @@ public class PointV1 {
      * @param other A Point
      * @return
      */
-    public double distance(PointV1 other){
+    public double distance(PointV2 other){
         return Math.sqrt(Math.pow(x - other.x, 2)+Math.pow(y - other.y, 2));
     }
 }

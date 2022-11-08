@@ -1,13 +1,14 @@
 /**
  * This program is a template to create a simple checking account
+ * Version 2: This version uses aggeration
  *
  *  @author: Kai Lanausse
  *  @since: November 4, 2022
  *  @version: 1.0
  */
-package Ch8Classes;
+package Ch8Classes.BankAccount;
 
-public class BankAccountV1 {
+public class BankAccountV2 {
     //Fields
     private String name, ssn, address, dob, phone, email;
     private int pin, accountNumber;
@@ -28,7 +29,7 @@ public class BankAccountV1 {
      * @param pin
      * @param balance
      */
-    public BankAccountV1(String name, String address, String dob, String ssn, String phone, String email, int pin, int balance){
+    public BankAccountV2(String name, String address, String dob, String ssn, String phone, String email, int pin, int balance){
         totalNumberOfAccounts++;
         this.address = address;
         this.balance = balance;
@@ -44,15 +45,15 @@ public class BankAccountV1 {
 
     /**
      * Account created online
-     * @param name
-     * @param address
-     * @param dob
-     * @param ssn
-     * @param phone
-     * @param email
-     * @param pin
+     * @param name Account name
+     * @param address Home address
+     * @param dob Date of Birth
+     * @param ssn Socal Security Number
+     * @param phone Phone Number
+     * @param email E-Mail
+     * @param pin Pin code
      */
-    public BankAccountV1(String name, String ssn, String address, String dob, String phone, String email, int pin){
+    public BankAccountV2(String name, String ssn, String address, String dob, String phone, String email, int pin){
         this(name,address,dob,ssn,phone,email,pin,0);
     }
 
@@ -60,7 +61,7 @@ public class BankAccountV1 {
 
     /**
      * Gets the bank account's name
-     * @return
+     * @return Account Name
      */
     public String getName() {
         return name;
@@ -68,7 +69,7 @@ public class BankAccountV1 {
 
     /**
      * Gets the address connected to the account
-     * @return
+     * @return Home Address
      */
     public String getAddress() {
         return address;
@@ -76,7 +77,7 @@ public class BankAccountV1 {
 
     /**
      * Gets the phone number connected to the account
-     * @return
+     * @return Phone Number
      */
     public String getPhone() {
         return phone;
@@ -84,7 +85,7 @@ public class BankAccountV1 {
 
     /**
      * Gets the E-Mail connected to the account
-     * @return
+     * @return E-Mail
      */
     public String getEmail() {
         return email;
@@ -93,25 +94,41 @@ public class BankAccountV1 {
     //Setters
 
     /**
-     * Sets/changes the address
-     * @param address
+     * Sets/changes the address linked to the account
+     * @param address New Address
      */
     public void setAddress(String address) {
         this.address = address;
     }
 
+    /**
+     * Sets/changes the phone number linked to the account
+     * @param phone New Phone Number
+     */
     public void setPhone(String phone) {
         this.phone = phone;
     }
 
+    /**
+     * Sets/changes the E-mail linked to the account
+     * @param email new E-mail
+     */
     public void setEmail(String email) {
         this.email = email;
     }
 
+    /**
+     * Adds the amount deposited to the account balance
+     * @param amount amount deposited
+     */
     public void deposit(double amount) {
         balance+=amount;
     }
 
+    /**
+     * Removes the amount withdrawn from the account balance
+     * @param amount amount withdrawn
+     */
     public void withdraw(double amount) {
         balance-=amount;
     }

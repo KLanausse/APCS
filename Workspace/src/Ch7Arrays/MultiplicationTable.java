@@ -13,6 +13,8 @@ public class MultiplicationTable {
         int height = console.nextInt();
         printMatrix( createMultiplicationTable(width,height) );
 
+        console.close();
+
     }
 
     /**

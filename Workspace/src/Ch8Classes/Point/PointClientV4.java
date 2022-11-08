@@ -1,4 +1,4 @@
-package Ch8Classes;
+package Ch8Classes.Point;
 
 public class PointClientV4 {
     public static void  main(String[] args){

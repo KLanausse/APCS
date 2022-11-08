@@ -15,6 +15,8 @@ public class KaiLanausseMultiplicationTableMod {
         int size = console.nextInt();
         printMatrix( createMultiplicationTable(x,y,size) );
 
+        console.close();
+
     }
 
     /**

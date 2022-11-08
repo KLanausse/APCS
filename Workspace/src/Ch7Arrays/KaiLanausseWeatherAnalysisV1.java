@@ -38,7 +38,7 @@ public class KaiLanausseWeatherAnalysisV1 {
         }
 
         System.out.println(daysAboveAverage + " days were above average");
-
+        console.close();
 
     }
 }

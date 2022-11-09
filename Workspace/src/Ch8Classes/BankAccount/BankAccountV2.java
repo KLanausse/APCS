@@ -1,6 +1,6 @@
 /**
  * This program is a template to create a simple checking account
- * Version 2: This version uses aggeration
+ * Version 2: This version uses aggregation
  *
  *  @author: Kai Lanausse
  *  @since: November 4, 2022
@@ -20,14 +20,14 @@ public class BankAccountV2 {
 
     /**
      * Account created In-person
-     * @param name
-     * @param address
-     * @param dob
-     * @param ssn
-     * @param phone
-     * @param email
-     * @param pin
-     * @param balance
+     * @param name Account name
+     * @param address Home address
+     * @param dob Date of Birth
+     * @param ssn Social Security Number
+     * @param phone Phone Number
+     * @param email E-Mail
+     * @param pin Pin code
+     * @param balance Amount added
      */
     public BankAccountV2(String name, String address, String dob, String ssn, String phone, String email, int pin, int balance){
         totalNumberOfAccounts++;
@@ -48,7 +48,7 @@ public class BankAccountV2 {
      * @param name Account name
      * @param address Home address
      * @param dob Date of Birth
-     * @param ssn Socal Security Number
+     * @param ssn Social Security Number
      * @param phone Phone Number
      * @param email E-Mail
      * @param pin Pin code

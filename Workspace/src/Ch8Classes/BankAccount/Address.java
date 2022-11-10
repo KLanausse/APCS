@@ -6,7 +6,7 @@ public class Address {
     private String street, unitNum, city, state;
 
     //Constructors
-    private Address(int buildingNumber, String street, String unitNum, String city, String state, int zipCode){
+    public Address(int buildingNumber, String street, String unitNum, String city, String state, int zipCode){
         this.buildingNumber = buildingNumber;
         this.street = street;
         this.unitNum = unitNum;
@@ -15,7 +15,7 @@ public class Address {
         this.zipCode = zipCode;
     }
 
-    private Address(int buildingNumber, String street, String city, String state, int zipCode){
+    public Address(int buildingNumber, String street, String city, String state, int zipCode){
         this(buildingNumber,street, null, city, state, zipCode);
     }
 

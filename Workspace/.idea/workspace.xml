@@ -4,9 +4,20 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="798a9de7-2192-4850-a317-497ef2de24a0" name="Default Changelist" comment="">
+    <list default="true" id="798a9de7-2192-4850-a317-497ef2de24a0" name="Default Changelist" comment="DateOfBirth class and edit V2">
+      <change afterPath="$PROJECT_DIR$/src/Ch8Classes/BankAccount/DateOfBirth.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Workspace/Ch8Classes/PointClientV1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Workspace/Ch8Classes/PointClientV2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Workspace/Ch8Classes/PointClientV3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Workspace/Ch8Classes/PointClientV4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Workspace/Ch8Classes/PointV1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Workspace/Ch8Classes/PointV2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Workspace/Ch8Classes/PointV3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Workspace/Ch8Classes/PointV4.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Ch8Classes/BankAccount/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch8Classes/BankAccount/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch8Classes/BankAccount/BankAccountClientV2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch8Classes/BankAccount/BankAccountClientV2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch8Classes/BankAccount/BankAccountV2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch8Classes/BankAccount/BankAccountV2.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,37 +30,37 @@
     <session id="-1294421291">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.7" value="2" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="25" />
+          <entry key="java" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="25" />
+          <entry key="JAVA" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2900" />
-          <entry key="txt" value="118" />
+          <entry key="java" value="3192" />
+          <entry key="txt" value="144" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2900" />
-          <entry key="PLAIN_TEXT" value="118" />
+          <entry key="JAVA" value="3192" />
+          <entry key="PLAIN_TEXT" value="144" />
         </counts>
       </usages-collector>
     </session>
@@ -80,11 +91,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Ch8Classes/BankAccount/BankAccountClientV2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="357">
+              <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -92,8 +103,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Ch8Classes/BankAccount/BankAccountV2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1291">
-              <caret line="29" column="34" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
+            <state relative-caret-position="625">
+              <caret line="63" column="7" lean-forward="true" selection-start-line="63" selection-start-column="7" selection-end-line="63" selection-end-column="7" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -101,39 +112,35 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Ch8Classes/BankAccount/Address.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="531">
-              <caret line="129" column="44" selection-start-line="129" selection-start-column="44" selection-end-line="129" selection-end-column="44" />
+            <state relative-caret-position="136">
+              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+              <folding>
+                <element signature="method#Address#0;class#Address#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Ch8Classes/Point/PointV4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
-                <element signature="method#Address#0;class#Address#0" />
-                <element signature="e#763#764#0" expanded="true" />
-                <element signature="e#800#801#0" expanded="true" />
-                <element signature="e#910#911#0" expanded="true" />
-                <element signature="e#940#941#0" expanded="true" />
-                <element signature="e#1038#1039#0" expanded="true" />
-                <element signature="e#1067#1068#0" expanded="true" />
-                <element signature="e#1162#1163#0" expanded="true" />
-                <element signature="e#1192#1193#0" expanded="true" />
-                <element signature="e#1294#1295#0" expanded="true" />
-                <element signature="e#1321#1322#0" expanded="true" />
-                <element signature="e#1410#1411#0" expanded="true" />
-                <element signature="e#1438#1439#0" expanded="true" />
-                <element signature="e#1587#1588#0" expanded="true" />
-                <element signature="e#1639#1640#0" expanded="true" />
-                <element signature="e#1768#1769#0" expanded="true" />
-                <element signature="e#1806#1807#0" expanded="true" />
-                <element signature="e#1929#1930#0" expanded="true" />
-                <element signature="e#1965#1966#0" expanded="true" />
-                <element signature="e#2088#2089#0" expanded="true" />
-                <element signature="e#2126#2127#0" expanded="true" />
-                <element signature="e#2245#2246#0" expanded="true" />
-                <element signature="e#2277#2278#0" expanded="true" />
-                <element signature="e#2389#2390#0" expanded="true" />
-                <element signature="e#2423#2424#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Ch8Classes/BankAccount/DateOfBirth.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -202,15 +209,16 @@
         <option value="$PROJECT_DIR$/src/Ch8Classes/BankAccountClientV1.java" />
         <option value="$PROJECT_DIR$/src/Ch8Classes/BankAccount/BankAccountClientV1.java" />
         <option value="$PROJECT_DIR$/src/Ch8Classes/BankAccount/BankAccountV1.java" />
-        <option value="$PROJECT_DIR$/src/Ch8Classes/BankAccount/BankAccountClientV2.java" />
-        <option value="$PROJECT_DIR$/src/Ch8Classes/BankAccount/BankAccountV2.java" />
+        <option value="$PROJECT_DIR$/src/Ch8Classes/BankAccount/DateOfBirth.java" />
         <option value="$PROJECT_DIR$/src/Ch8Classes/BankAccount/Address.java" />
+        <option value="$PROJECT_DIR$/src/Ch8Classes/BankAccount/BankAccountV2.java" />
+        <option value="$PROJECT_DIR$/src/Ch8Classes/BankAccount/BankAccountClientV2.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="290" />
-    <option name="y" value="157" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1456" />
     <option name="height" value="876" />
   </component>
@@ -223,7 +231,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
@@ -260,12 +267,20 @@
               <item name="Workspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="Workspace" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch8Classes" type="462c0819:PsiDirectoryNode" />
+              <item name="Point" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Personal" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -273,7 +288,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1668018208071" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1668019316511" />
     <property name="extract.method.default.visibility" value="public" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
@@ -309,7 +324,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BankAccountClientV1">
+  <component name="RunManager" selected="Application.BankAccountClientV2">
     <configuration name="BankAccountClientV1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ch8Classes.BankAccount.BankAccountClientV1" />
       <module name="Workspace" />
@@ -323,12 +338,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KaiLanaussePersonalityTestV1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch7Arrays.KaiLanaussePersonalityTestV1" />
+    <configuration name="BankAccountClientV2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch8Classes.BankAccount.BankAccountClientV2" />
       <module name="Workspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ch7Arrays.*" />
+          <option name="PATTERN" value="Ch8Classes.BankAccount.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -376,19 +391,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.KaiLanaussePersonalityTestV1" />
       <item itemvalue="Application.PointClientV1" />
       <item itemvalue="Application.PointClientV2" />
       <item itemvalue="Application.PointClientV4" />
       <item itemvalue="Application.BankAccountClientV1" />
+      <item itemvalue="Application.BankAccountClientV2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BankAccountClientV2" />
         <item itemvalue="Application.BankAccountClientV1" />
         <item itemvalue="Application.PointClientV4" />
         <item itemvalue="Application.PointClientV2" />
         <item itemvalue="Application.PointClientV1" />
-        <item itemvalue="Application.KaiLanaussePersonalityTestV1" />
       </list>
     </recent_temporary>
   </component>
@@ -432,7 +447,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668017646720</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Setters and Getters for Address class">
+      <created>1668018247349</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1668018247349</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView">
@@ -448,7 +470,7 @@
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49796748" visible="true" weight="0.2744253" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49796748" visible="true" weight="0.27873564" />
       <window_info id="Structure" order="1" sideWeight="0.5020325" side_tool="true" weight="0.2744253" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -457,7 +479,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.5020325" side_tool="true" weight="0.2744253" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49928162" weight="0.3297587" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4841954" visible="true" weight="0.32744566" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4841954" weight="0.32744566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -465,7 +487,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5007184" side_tool="true" weight="0.33152175" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49425286" weight="0.33152175" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49928162" weight="0.3292683" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49928162" visible="true" weight="0.32880434" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -718,9 +740,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -728,19 +747,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
           <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch8Classes/Point/PointV4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -761,29 +767,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch8Classes/BankAccount/BankAccountClientV2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch8Classes/BankAccount/BankAccountV2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1291">
-          <caret line="29" column="34" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch8Classes/BankAccount/Address.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="531">
-          <caret line="129" column="44" selection-start-line="129" selection-start-column="44" selection-end-line="129" selection-end-column="44" />
+        <state relative-caret-position="136">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
             <element signature="method#Address#0;class#Address#0" />
             <element signature="e#763#764#0" expanded="true" />
             <element signature="e#800#801#0" expanded="true" />
@@ -810,6 +798,40 @@
             <element signature="e#2389#2390#0" expanded="true" />
             <element signature="e#2423#2424#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch8Classes/Point/PointV4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch8Classes/BankAccount/DateOfBirth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch8Classes/BankAccount/BankAccountV2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="63" column="7" lean-forward="true" selection-start-line="63" selection-start-column="7" selection-end-line="63" selection-end-column="7" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch8Classes/BankAccount/BankAccountClientV2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
         </state>
       </provider>
     </entry>

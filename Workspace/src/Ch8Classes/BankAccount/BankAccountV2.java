@@ -10,9 +10,11 @@ package Ch8Classes.BankAccount;
 
 public class BankAccountV2 {
     //Fields
-    private String name, ssn, address, dob, phone, email;
+    private String name, ssn, phone, email;
     private int pin, accountNumber;
     private double balance;
+    private Address address;
+    private DateOfBirth dob;
 
     private static int totalNumberOfAccounts;
 
@@ -29,7 +31,7 @@ public class BankAccountV2 {
      * @param pin Pin code
      * @param balance Amount added
      */
-    public BankAccountV2(String name, String address, String dob, String ssn, String phone, String email, int pin, int balance){
+    public BankAccountV2(String name, String ssn, Address address, DateOfBirth dob, String phone, String email, int pin, int balance){
         totalNumberOfAccounts++;
         this.address = address;
         this.balance = balance;
@@ -53,8 +55,8 @@ public class BankAccountV2 {
      * @param email E-Mail
      * @param pin Pin code
      */
-    public BankAccountV2(String name, String ssn, String address, String dob, String phone, String email, int pin){
-        this(name,address,dob,ssn,phone,email,pin,0);
+    public BankAccountV2(String name, String ssn, Address address, DateOfBirth dob, String phone, String email, int pin){
+        this(name, ssn,address,dob,phone,email,pin,0);
     }
 
     //Getters
@@ -71,7 +73,7 @@ public class BankAccountV2 {
      * Gets the address connected to the account
      * @return Home Address
      */
-    public String getAddress() {
+    public Address getAddress() {
         return address;
     }
 
@@ -97,7 +99,7 @@ public class BankAccountV2 {
      * Sets/changes the address linked to the account
      * @param address New Address
      */
-    public void setAddress(String address) {
+    public void setAddress(Address address) {
         this.address = address;
     }
 

@@ -1,3 +1,4 @@
+package Ch8Classes.BankAccount;
 /**
  * This program is a template to create a simple checking account
  * Version 2: This version uses aggregation
@@ -6,7 +7,6 @@
  *  @since: November 4, 2022
  *  @version: 1.0
  */
-package Ch8Classes.BankAccount;
 
 public class BankAccountV2 {
     //Fields

@@ -123,7 +123,7 @@ public class Address {
     @Override
     public String toString() {
         if (unitNum != null)
-            return buildingNumber + " " + street + " " + unitNum + "\n" + city + " " + street + " " + zipCode;
-        return buildingNumber + " " + street + "\n" + city + " " + street + " " + zipCode;
+            return buildingNumber + " " + street + " " + unitNum + "\n" + city + ", " + state + " " + zipCode;
+        return buildingNumber + " " + street + "\n" + city + ", " + state + " " + zipCode;
     }
 }

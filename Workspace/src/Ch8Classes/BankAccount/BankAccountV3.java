@@ -2,13 +2,14 @@ package Ch8Classes.BankAccount;
 /**
  * This program is a template to create a simple checking account
  * Version 2: This version uses aggregation
+ * Version 3: Reduce redundancy
  *
  *  @author: Kai Lanausse
- *  @since: November 10, 2022
- *  @version: 2.0
+ *  @since: November 16, 2022
+ *  @version: 3.0
  */
 
-public class BankAccountV2 {
+public class BankAccountV3 {
     //Fields
     private String name, ssn, phone, email;
     private int pin, accountNumber;
@@ -31,7 +32,7 @@ public class BankAccountV2 {
      * @param pin Pin code
      * @param balance Amount added
      */
-    public BankAccountV2(String name, String ssn, Address address, DateOfBirth dob, String phone, String email, int pin, int balance){
+    public BankAccountV3(String name, String ssn, Address address, DateOfBirth dob, String phone, String email, int pin, int balance){
         totalNumberOfAccounts++;
         this.address = address;
         this.balance = balance;
@@ -55,7 +56,7 @@ public class BankAccountV2 {
      * @param email E-Mail
      * @param pin Pin code
      */
-    public BankAccountV2(String name, String ssn, Address address, DateOfBirth dob, String phone, String email, int pin){
+    public BankAccountV3(String name, String ssn, Address address, DateOfBirth dob, String phone, String email, int pin){
         this(name, ssn,address,dob,phone,email,pin,0);
     }
 

@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="798a9de7-2192-4850-a317-497ef2de24a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ch10ArrayList/ArrayListBasics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ch10ArrayList/Data/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ch8Classes/Groceries/GroceriesClientV1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ch8Classes/Groceries/GroceryItemOrderV1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ch8Classes/Groceries/GroceryListV1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ch8Classes/Projects/Hangman/KaiLanausseHangman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ch8Classes/Projects/Hangman/wordListMIT.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch8Classes/BankAccount/BankAccountClientV3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch8Classes/BankAccount/BankAccountClientV3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch8Classes/Projects/KaiLanausseHangman.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch10ArrayList/ArrayListBasics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch10ArrayList/ArrayListBasics.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,12 +37,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="404" />
+          <entry key="java" value="484" />
+          <entry key="txt" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="404" />
+          <entry key="JAVA" value="484" />
+          <entry key="PLAIN_TEXT" value="22" />
         </counts>
       </usages-collector>
     </session>
@@ -63,23 +57,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Ch10ArrayList/ArrayListBasics.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="46" column="10" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
+            <state relative-caret-position="307">
+              <caret line="34" column="33" lean-forward="true" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Ch7Arrays/KaiLanaussePersonalityTestV1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#580#588#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -260,7 +243,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1670005226178" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1670005881688" />
     <property name="extract.method.default.visibility" value="public" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Ch8Classes/Projects/Hangman" />
     <property name="project.structure.last.edited" value="Project" />
@@ -449,7 +432,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668623619217</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Start Ch10ArrayLists">
+      <created>1670005308409</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1670005308409</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TodoView">
@@ -531,7 +521,8 @@
     <MESSAGE value="Update BankAccountClientV2 to use BankAccountV2 correctly" />
     <MESSAGE value="Update BankAccountClientV2 to use an BankAccountV2 array and use a loop to print each account" />
     <MESSAGE value="Cleanup Client Code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cleanup Client Code" />
+    <MESSAGE value="Start Ch10ArrayLists" />
+    <option name="LAST_COMMIT_MESSAGE" value="Start Ch10ArrayLists" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/function/IntConsumer.java">
@@ -807,6 +798,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="595">
           <caret line="39" column="30" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
+          <folding>
+            <element signature="e#626#627#0" expanded="true" />
+            <element signature="e#666#667#0" expanded="true" />
+            <element signature="e#792#793#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -843,11 +839,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch10ArrayList/ArrayListBasics.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="46" column="10" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
+        <state relative-caret-position="307">
+          <caret line="34" column="33" lean-forward="true" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
+            <element signature="e#580#588#0" expanded="true" />
           </folding>
         </state>
       </provider>

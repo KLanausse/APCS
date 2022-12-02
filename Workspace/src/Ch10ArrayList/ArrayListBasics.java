@@ -18,10 +18,12 @@ public class ArrayListBasics {
         Scanner data = new Scanner(new File("src/Ch10ArrayList/Data/data.txt"));
 
         //Store all words in file to an ArrayList
-        ArrayList list = new ArrayList();
-        while (data.hasNextLine()){
+        ArrayList<String> list = new ArrayList<String>();
+        while (data.hasNextLine())
             list.add(data.nextLine());
-        }
+
+        //File is no longer needed
+        data.close();
 
         //print all words
         for (Object word: list)

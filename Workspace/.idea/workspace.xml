@@ -5,20 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="798a9de7-2192-4850-a317-497ef2de24a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ch7Arrays/KaiLanausseTraverseCols2DMats.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ch8Classes/BankAccount/BankAccountClientV3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ch8Classes/BankAccount/BankAccountV3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ch8Classes/Projects/KaiLanausseHangman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch10ArrayList/ArrayListBasics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch10ArrayList/Data/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch8Classes/Groceries/GroceriesClientV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch8Classes/Groceries/GroceryItemOrderV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch8Classes/Groceries/GroceryListV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch8Classes/Projects/Hangman/KaiLanausseHangman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch8Classes/Projects/Hangman/wordListMIT.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Workspace/Ch7Arrays/KaiLanausseMultiplicationTableMod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Workspace/Ch7Arrays/KaiLanausseMultiplicationTableMod.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Workspace/Ch7Arrays/KaiLanaussePersonalityTestBACKUP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Workspace/Ch7Arrays/KaiLanaussePersonalityTestBACKUP.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Workspace/Ch7Arrays/KaiLanaussePersonalityTestV1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Workspace/Ch7Arrays/KaiLanaussePersonalityTestV1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Workspace/Ch7Arrays/KaiLanaussePersonalityTestV2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Workspace/Ch7Arrays/KaiLanaussePersonalityTestV2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Workspace/Ch7Arrays/KaiLanausseTraverseRows2DMats.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Workspace/Ch7Arrays/KaiLanausseTraverseRows2DMats.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Workspace/Ch7Arrays/KaiLanausseWeatherAnalysisV1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Workspace/Ch7Arrays/KaiLanausseWeatherAnalysisV1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Workspace/Ch7Arrays/MultiplicationTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Workspace/Ch7Arrays/MultiplicationTable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch7Arrays/KaiLanausseTraverseRows2DMats.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch7Arrays/KaiLanausseTraverseRows2DMats.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch8Classes/BankAccount/BankAccountV2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch8Classes/BankAccount/BankAccountV2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch8Classes/BankAccount/BankAccountClientV3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch8Classes/BankAccount/BankAccountClientV3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch8Classes/Projects/KaiLanausseHangman.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,21 +34,23 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="java" value="4" />
+          <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JAVA" value="4" />
+          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="139" />
+          <entry key="java" value="404" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="139" />
+          <entry key="JAVA" value="404" />
         </counts>
       </usages-collector>
     </session>
@@ -62,38 +60,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Ch8Classes/BankAccount/BankAccountClientV2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="68" selection-start-line="16" selection-start-column="68" selection-end-line="16" selection-end-column="68" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Ch8Classes/BankAccount/BankAccountClientV3.java">
+        <entry file="file://$PROJECT_DIR$/src/Ch10ArrayList/ArrayListBasics.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
-              <caret line="42" column="30" lean-forward="true" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
+            <state relative-caret-position="375">
+              <caret line="46" column="10" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Ch8Classes/BankAccount/BankAccountV2.java">
+        <entry file="file://$PROJECT_DIR$/src/Ch7Arrays/KaiLanaussePersonalityTestV1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Ch8Classes/BankAccount/BankAccountV3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+            <state relative-caret-position="17">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -111,9 +98,11 @@
     <findStrings>
       <find>PointV3</find>
       <find>get</find>
+      <find>BankAccountV2</find>
     </findStrings>
     <replaceStrings>
       <replace>PointV4</replace>
+      <replace>BankAccountV3</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -169,16 +158,35 @@
         <option value="$PROJECT_DIR$/src/Ch8Classes/BankAccount/BankAccountV2.java" />
         <option value="$PROJECT_DIR$/src/Ch8Classes/BankAccount/BankAccountV3.java" />
         <option value="$PROJECT_DIR$/src/Ch8Classes/BankAccount/BankAccountClientV3.java" />
+        <option value="$PROJECT_DIR$/src/Ch8Classes/Groceries/GroceryItemOrderV1.java" />
+        <option value="$PROJECT_DIR$/src/Ch8Classes/Groceries/GroceriesClientV1.java" />
+        <option value="$PROJECT_DIR$/src/Ch8Classes/Groceries/GroceryListV1.java" />
+        <option value="$PROJECT_DIR$/src/Ch10ArrayList/Data/data.txt" />
+        <option value="$PROJECT_DIR$/src/Ch10ArrayList/ArrayListBasics.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="380" />
+    <option name="y" value="130" />
     <option name="width" value="1456" />
     <option name="height" value="876" />
   </component>
   <component name="ProjectId" id="2GfqT16qzVCMTZ9idmo0gfEeNRK" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -187,6 +195,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -198,32 +208,51 @@
             <path>
               <item name="Workspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="Workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Workspace" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Workspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="Workspace" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch8Classes" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch7Arrays" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Workspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="Workspace" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch8Classes" type="462c0819:PsiDirectoryNode" />
-              <item name="BankAccount" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch10ArrayList" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch10ArrayList" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="462c0819:PsiDirectoryNode" />
+              <item name="In" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="462c0819:PsiDirectoryNode" />
+              <item name="Out" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -231,16 +260,22 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1668623518983" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1670005226178" />
     <property name="extract.method.default.visibility" value="public" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Ch8Classes/Projects/Hangman" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\My Drive\APCS\Workspace\src\Ch8Classes\Projects\Hangman" />
+      <recent name="G:\My Drive\APCS\Workspace\src\Ch8Classes\BankAccount" />
+      <recent name="G:\My Drive\APCS\Workspace\src\Data\In" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\My Drive\APCS\Workspace\src\Ch8Classes\Projects\Hangman" />
       <recent name="G:\My Drive\APCS\Workspace\src\Personal" />
       <recent name="G:\My Drive\APCS\Workspace\src\Data\In" />
       <recent name="G:\My Drive\APCS\Workspace" />
@@ -249,10 +284,6 @@
       <recent name="Ch8Classes.BankAccount" />
       <recent name="Ch8Classes" />
       <recent name="Ch7Arrays" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="G:\My Drive\APCS\Workspace\src\Ch8Classes\BankAccount" />
-      <recent name="G:\My Drive\APCS\Workspace\src\Data\In" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -267,13 +298,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BankAccountClientV3">
-    <configuration name="BankAccountClientV2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch8Classes.BankAccount.BankAccountClientV2" />
+  <component name="RunManager" selected="Application.ArrayListBasics">
+    <configuration name="ArrayListBasics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch10ArrayList.ArrayListBasics" />
       <module name="Workspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ch8Classes.BankAccount.*" />
+          <option name="PATTERN" value="Ch10ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -294,6 +325,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GroceriesClientV1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch8Classes.Groceries.GroceriesClientV1" />
+      <module name="Workspace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ch8Classes.Groceries.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KaiLanausseHangman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch8Classes.Projects.Hangman.KaiLanausseHangman" />
+      <module name="Workspace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ch8Classes.Projects.Hangman.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="KaiLanausseTraverseCols2DMats" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ch7Arrays.KaiLanausseTraverseCols2DMats" />
       <module name="Workspace" />
@@ -307,46 +364,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KaiLanausseTraverseRows2DMats" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch7Arrays.KaiLanausseTraverseRows2DMats" />
-      <module name="Workspace" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ch7Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Traverse2DMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch7Arrays.Traverse2DMatrix" />
-      <module name="Workspace" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ch7Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.BankAccountClientV2" />
-      <item itemvalue="Application.Traverse2DMatrix" />
-      <item itemvalue="Application.KaiLanausseTraverseRows2DMats" />
-      <item itemvalue="Application.KaiLanausseTraverseCols2DMats" />
       <item itemvalue="Application.BankAccountClientV3" />
+      <item itemvalue="Application.GroceriesClientV1" />
+      <item itemvalue="Application.KaiLanausseHangman" />
+      <item itemvalue="Application.KaiLanausseTraverseCols2DMats" />
+      <item itemvalue="Application.ArrayListBasics" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayListBasics" />
+        <item itemvalue="Application.KaiLanausseHangman" />
+        <item itemvalue="Application.GroceriesClientV1" />
         <item itemvalue="Application.BankAccountClientV3" />
         <item itemvalue="Application.KaiLanausseTraverseCols2DMats" />
-        <item itemvalue="Application.KaiLanausseTraverseRows2DMats" />
-        <item itemvalue="Application.Traverse2DMatrix" />
-        <item itemvalue="Application.BankAccountClientV2" />
       </list>
     </recent_temporary>
   </component>
@@ -411,7 +442,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668104001426</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Cleanup Client Code">
+      <created>1668623619217</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1668623619217</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TodoView">
@@ -427,7 +465,7 @@
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49796748" weight="0.28304598" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49796748" visible="true" weight="0.31178162" />
       <window_info id="Structure" order="1" sideWeight="0.5020325" side_tool="true" weight="0.2744253" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -436,7 +474,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.5020325" side_tool="true" weight="0.2744253" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49928162" weight="0.3297587" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4841954" weight="0.32744566" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4841954" visible="true" weight="0.32744566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -492,7 +530,8 @@
     <MESSAGE value="Setters and Getters for Address class" />
     <MESSAGE value="Update BankAccountClientV2 to use BankAccountV2 correctly" />
     <MESSAGE value="Update BankAccountClientV2 to use an BankAccountV2 array and use a loop to print each account" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update BankAccountClientV2 to use an BankAccountV2 array and use a loop to print each account" />
+    <MESSAGE value="Cleanup Client Code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cleanup Client Code" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/function/IntConsumer.java">
@@ -624,20 +663,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch7Arrays/KaiLanaussePersonalityTestV1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="110" selection-start-line="1" selection-start-column="110" selection-end-line="1" selection-end-column="110" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch7Arrays/KaiLanaussePersonalityTestV2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Data/Out/output.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -712,19 +737,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="9" selection-start-line="9" selection-end-line="10" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch8Classes/BankAccount/Address.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1565">
-          <caret line="126" column="63" selection-start-line="126" selection-start-column="63" selection-end-line="126" selection-end-column="63" />
-          <folding>
-            <element signature="method#Address#0;class#Address#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -756,10 +768,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch8Classes/BankAccount/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="837">
+          <caret line="126" column="63" selection-start-line="126" selection-start-column="63" selection-end-line="126" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch8Classes/BankAccount/BankAccountClientV3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch8Classes/BankAccount/BankAccountV2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="7" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -770,10 +796,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch8Classes/BankAccount/BankAccountClientV3.java">
+    <entry file="file://$PROJECT_DIR$/src/Ch8Classes/Groceries/GroceryListV1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="42" column="30" lean-forward="true" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
+        <state relative-caret-position="482">
+          <caret line="46" column="36" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch8Classes/Groceries/GroceryItemOrderV1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="39" column="30" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch8Classes/Groceries/GroceriesClientV1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch10ArrayList/Data/data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch7Arrays/KaiLanaussePersonalityTestV2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-221">
+          <caret line="18" column="40" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch7Arrays/KaiLanaussePersonalityTestV1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch10ArrayList/ArrayListBasics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="46" column="10" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

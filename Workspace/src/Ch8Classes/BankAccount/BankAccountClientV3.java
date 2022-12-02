@@ -18,7 +18,8 @@ public class BankAccountClientV3 {
                         new DateOfBirth(
                                 2006, 
                                 7, 
-                                4), 
+                                4
+                        ),
                         "123-456-7890", 
                         "kai@cs.com", 
                         1337

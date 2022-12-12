@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="798a9de7-2192-4850-a317-497ef2de24a0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Ch10ArrayList/Data/randomNumbers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch10ArrayList/Homework/KaiLanausseNumberArrayList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch10ArrayList/ArrayListBasics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch10ArrayList/ArrayListBasics.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,30 +21,32 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="4" />
-          <entry key="txt" value="1" />
+          <entry key="java" value="6" />
+          <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="4" />
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="JAVA" value="6" />
+          <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="484" />
+          <entry key="java" value="1036" />
           <entry key="txt" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="484" />
+          <entry key="JAVA" value="1036" />
           <entry key="PLAIN_TEXT" value="22" />
         </counts>
       </usages-collector>
@@ -53,19 +56,36 @@
     <favorites_list name="Workspace" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Ch10ArrayList/ArrayListBasics.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="34" column="33" lean-forward="true" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
+            <state relative-caret-position="272">
+              <caret line="25" column="21" selection-start-line="16" selection-start-column="8" selection-end-line="25" selection-end-column="21" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="imports" expanded="true" />
-                <element signature="e#580#588#0" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Ch10ArrayList/Homework/KaiLanausseNumberArrayList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="39" column="57" selection-start-line="39" selection-start-column="57" selection-end-line="39" selection-end-column="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#getAverage#0;class#KaiLanausseNumberArrayList#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Ch10ArrayList/Data/randomNumbers.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -146,12 +166,13 @@
         <option value="$PROJECT_DIR$/src/Ch8Classes/Groceries/GroceryListV1.java" />
         <option value="$PROJECT_DIR$/src/Ch10ArrayList/Data/data.txt" />
         <option value="$PROJECT_DIR$/src/Ch10ArrayList/ArrayListBasics.java" />
+        <option value="$PROJECT_DIR$/src/Ch10ArrayList/Homework/KaiLanausseNumberArrayList.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="380" />
-    <option name="y" value="130" />
+    <option name="x" value="81" />
+    <option name="y" value="299" />
     <option name="width" value="1456" />
     <option name="height" value="876" />
   </component>
@@ -178,9 +199,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -197,12 +215,6 @@
               <item name="Workspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="Workspace" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch7Arrays" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Ch10ArrayList" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -216,26 +228,16 @@
               <item name="Workspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="Workspace" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Data" type="462c0819:PsiDirectoryNode" />
-              <item name="In" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Data" type="462c0819:PsiDirectoryNode" />
-              <item name="Out" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch10ArrayList" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -243,7 +245,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1670005881688" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1670265783619" />
     <property name="extract.method.default.visibility" value="public" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Ch8Classes/Projects/Hangman" />
     <property name="project.structure.last.edited" value="Project" />
@@ -252,11 +254,6 @@
     <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="G:\My Drive\APCS\Workspace\src\Ch8Classes\Projects\Hangman" />
-      <recent name="G:\My Drive\APCS\Workspace\src\Ch8Classes\BankAccount" />
-      <recent name="G:\My Drive\APCS\Workspace\src\Data\In" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="G:\My Drive\APCS\Workspace\src\Ch8Classes\Projects\Hangman" />
       <recent name="G:\My Drive\APCS\Workspace\src\Personal" />
@@ -267,6 +264,12 @@
       <recent name="Ch8Classes.BankAccount" />
       <recent name="Ch8Classes" />
       <recent name="Ch7Arrays" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\My Drive\APCS\Workspace\src\Ch10ArrayList\Data" />
+      <recent name="G:\My Drive\APCS\Workspace\src\Ch8Classes\Projects\Hangman" />
+      <recent name="G:\My Drive\APCS\Workspace\src\Ch8Classes\BankAccount" />
+      <recent name="G:\My Drive\APCS\Workspace\src\Data\In" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -281,7 +284,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayListBasics">
+  <component name="RunManager" selected="Application.KaiLanausseNumberArrayList">
     <configuration name="ArrayListBasics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ch10ArrayList.ArrayListBasics" />
       <module name="Workspace" />
@@ -334,12 +337,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KaiLanausseTraverseCols2DMats" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch7Arrays.KaiLanausseTraverseCols2DMats" />
+    <configuration name="KaiLanausseNumberArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch10ArrayList.Homework.KaiLanausseNumberArrayList" />
       <module name="Workspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ch7Arrays.*" />
+          <option name="PATTERN" value="Ch10ArrayList.Homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -351,16 +354,16 @@
       <item itemvalue="Application.BankAccountClientV3" />
       <item itemvalue="Application.GroceriesClientV1" />
       <item itemvalue="Application.KaiLanausseHangman" />
-      <item itemvalue="Application.KaiLanausseTraverseCols2DMats" />
       <item itemvalue="Application.ArrayListBasics" />
+      <item itemvalue="Application.KaiLanausseNumberArrayList" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KaiLanausseNumberArrayList" />
         <item itemvalue="Application.ArrayListBasics" />
         <item itemvalue="Application.KaiLanausseHangman" />
         <item itemvalue="Application.GroceriesClientV1" />
         <item itemvalue="Application.BankAccountClientV3" />
-        <item itemvalue="Application.KaiLanausseTraverseCols2DMats" />
       </list>
     </recent_temporary>
   </component>
@@ -455,7 +458,7 @@
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49796748" visible="true" weight="0.31178162" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49796748" visible="true" weight="0.32686782" />
       <window_info id="Structure" order="1" sideWeight="0.5020325" side_tool="true" weight="0.2744253" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -745,13 +748,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch8Classes/Projects/KaiLanausseHangman.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch8Classes/Projects/KaiLanausseHangman.java" />
     <entry file="file://$PROJECT_DIR$/src/Ch8Classes/BankAccount/BankAccountClientV2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -798,11 +795,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="595">
           <caret line="39" column="30" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
-          <folding>
-            <element signature="e#626#627#0" expanded="true" />
-            <element signature="e#666#667#0" expanded="true" />
-            <element signature="e#792#793#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -831,20 +823,37 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="149" column="8" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch10ArrayList/ArrayListBasics.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="34" column="33" lean-forward="true" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
+        <state relative-caret-position="272">
+          <caret line="25" column="21" selection-start-line="16" selection-start-column="8" selection-end-line="25" selection-end-column="21" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
-            <element signature="e#580#588#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch10ArrayList/Data/randomNumbers.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch10ArrayList/Homework/KaiLanausseNumberArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="39" column="57" selection-start-line="39" selection-start-column="57" selection-end-line="39" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#getAverage#0;class#KaiLanausseNumberArrayList#0" />
           </folding>
         </state>
       </provider>

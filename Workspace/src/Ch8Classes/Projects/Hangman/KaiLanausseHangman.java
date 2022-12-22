@@ -7,7 +7,17 @@ import java.util.Scanner;
 public class KaiLanausseHangman {
     public static void main(String[] args) throws FileNotFoundException {
         Scanner console = new Scanner(System.in);
-        System.out.println(getRandomWordFromList());
+        boolean play = true;
+
+        do {
+            String word = getRandomWordFromList();
+            char[] guessedWords = new char[word.length()-1];
+
+            for (int i = 0; i < word.length(); i++) {
+
+            }
+
+        }while (play);
     }
 
     public static String getRandomWordFromList() throws FileNotFoundException {
@@ -22,4 +32,33 @@ public class KaiLanausseHangman {
         fileInput.close();
         return word;
     }
+
+    /**
+     * Prints ascii art of the based of the state
+     * @param state
+     */
+    public static void printState(int state){
+        String[] states = {
+                "|\n|\n|",
+                "|  O\n|\n|",
+                "|  O\n|  |\n|",
+                "|  O\n| /|\n|",
+                "|  O\n| /|\\\n|",
+                "|  O\n| /|\\\n| /",
+                "|  O\n| /|\\\n| / \\"
+        };
+
+        System.out.println(
+                "+--+\n" +
+                "|  |");
+
+        System.out.println(states[state]);
+
+        System.out.println(
+                "|\n" +
+                "+-----");
+    }
+
+
+
 }

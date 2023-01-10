@@ -2,22 +2,45 @@ package Ch8Classes.Projects.Hangman;
 
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.util.ArrayList;
 import java.util.Scanner;
 
 public class KaiLanausseHangman {
     public static void main(String[] args) throws FileNotFoundException {
         Scanner console = new Scanner(System.in);
-        boolean play = true;
+        int totalGames = 0;
+        int totalWins = 0;
 
+        //Game Loop
         do {
+            totalGames++;
             String word = getRandomWordFromList();
-            char[] guessedWords = new char[word.length()-1];
+            ArrayList<Character> guessedWords = new ArrayList<Character>();
 
+            System.out.println(word);
             for (int i = 0; i < word.length(); i++) {
 
             }
 
-        }while (play);
+            String temp = "";
+            int wrongGuesses = 0;
+            while (wrongGuesses < 6 && temp.equals(word)){
+
+                for (char letter: word.toCharArray()) {
+                    if (!guessedWords.contains(letter)){
+                        temp += '.';
+                    } else
+                        temp += letter;
+                }
+
+                System.out.println(temp);
+
+            }
+
+            System.out.print("Do you want to play again? ");
+        }while (console.nextLine().toLowerCase().startsWith("y"));
+
+        //Game statistics
     }
 
     public static String getRandomWordFromList() throws FileNotFoundException {

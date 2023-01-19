@@ -14,33 +14,78 @@ public class KaiLanausseHangman {
         //Game Loop
         do {
             totalGames++;
-            String word = getRandomWordFromList();
-            ArrayList<Character> guessedWords = new ArrayList<Character>();
+            String secretWord = getRandomWordFromList();
+            ArrayList<Character> guessedLetters = new ArrayList<Character>();
 
-            System.out.println(word);
-            for (int i = 0; i < word.length(); i++) {
+            System.out.println(secretWord);
 
-            }
-
-            String temp = "";
+            String hiddenWord = hideWord(secretWord, guessedLetters);
             int wrongGuesses = 0;
-            while (wrongGuesses < 6 && temp.equals(word)){
+            do{
 
-                for (char letter: word.toCharArray()) {
-                    if (!guessedWords.contains(letter)){
-                        temp += '.';
-                    } else
-                        temp += letter;
-                }
+                System.out.println(hiddenWord);
 
-                System.out.println(temp);
+                printHangmanState(wrongGuesses);
 
+
+                System.out.println("Incorrect guesses = "+wrongGuesses);
+                System.out.println(guessedLetters);
+                System.out.print("Guess a letter: ");
+                guessedLetters.add(console.next().toLowerCase().charAt(0));
+                System.out.println();
+
+                //Check guessed letter
+                if (!containsLetter(secretWord, guessedLetters))
+                    wrongGuesses++;
+
+                hiddenWord = hideWord(secretWord,guessedLetters);
+
+            }while (wrongGuesses < 6 && !hiddenWord.equals(secretWord));
+
+            //Game results
+            printGameResults(secretWord, hiddenWord, wrongGuesses);
+            if ( hiddenWord.equals(secretWord) ) {
+                totalWins++;
             }
 
             System.out.print("Do you want to play again? ");
-        }while (console.nextLine().toLowerCase().startsWith("y"));
+        }while (console.next().toLowerCase().startsWith("y"));
 
-        //Game statistics
+        //Total Game Statistics
+        totalGameStatistics(totalGames, totalWins);
+    }
+
+    private static boolean containsLetter(String hiddenWord, ArrayList<Character> guessedLetters) {
+        if ( guessedLetters.indexOf(guessedLetters.get(guessedLetters.size()-1)) == guessedLetters.size()-1 ){//Make sure it hasn't already been guessed
+            return hiddenWord.indexOf(guessedLetters.get(guessedLetters.size() - 1)) != -1;
+        }else{
+            guessedLetters.remove(guessedLetters.size()-1);
+            System.out.println("You already guessed that letter!");
+        }
+        return true;
+    }
+
+    private static void totalGameStatistics(int totalGames, int totalWins) {
+        System.out.println("total games\t= " + totalGames);
+        System.out.println("total wins\t= " + totalWins);
+        System.out.println("win percentage\t= " + (totalWins/(double)totalGames)*100 );
+    }
+
+    private static void printGameResults(String hiddenWord, String displayedWord, int wrongGuesses) {
+        if ( displayedWord.equals(hiddenWord) ){
+            System.out.println(hiddenWord);
+            System.out.print("You won in "+wrongGuesses+" guess");
+
+            if (wrongGuesses==1) {
+                System.out.println("es\n");
+            }else {
+                System.out.println("\n");
+            }
+        }else {
+            printHangmanState(wrongGuesses);
+            System.out.println("\nYou lost.\n");
+        }
+        System.out.println("The word was "+hiddenWord);
     }
 
     public static String getRandomWordFromList() throws FileNotFoundException {
@@ -60,7 +105,7 @@ public class KaiLanausseHangman {
      * Prints ascii art of the based of the state
      * @param state
      */
-    public static void printState(int state){
+    public static void printHangmanState(int state){
         String[] states = {
                 "|\n|\n|",
                 "|  O\n|\n|",
@@ -80,6 +125,25 @@ public class KaiLanausseHangman {
         System.out.println(
                 "|\n" +
                 "+-----");
+    }
+
+    /**
+     * Used to hide the unguessed letters
+     * @param word
+     * @param guessedWords
+     * @return
+     */
+    public static String hideWord(String word, ArrayList guessedWords){
+        //This could be done better lol
+        String temp = "";
+        for (char letter: word.toCharArray()) {
+            if (!guessedWords.contains(letter)){
+                temp += '.';
+            } else
+                temp += letter;
+        }
+
+        return temp;
     }
 
 

@@ -4,7 +4,7 @@ import java.awt.*;
 
 public class Colors {
     public static void main(String[] args){
-        int width = 898I;
+        int width = 898;
         int height = 1370;
         DrawingPanelSimplifyed panel = new DrawingPanelSimplifyed(width, height);
         Graphics pen = panel.getGraphics();

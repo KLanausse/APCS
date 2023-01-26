@@ -1,4 +1,4 @@
-package Ch9Inheritance.Shapes;
+package Ch9Inheritance.Shapes.V1;
 
 public interface Shape {
     /*

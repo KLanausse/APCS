@@ -1,6 +1,6 @@
 package Ch9Inheritance.Shapes.V2;
 
-public abstract class Shape {
+public abstract class Shape implements Comparable<Shape> {
     /*
     *1. An abstract is a set of guidelines
     *2. Whoever implements a abstract, it's their respectability to implement all methods listed in the abstract class
@@ -18,6 +18,17 @@ public abstract class Shape {
 
     public abstract double area();
     public abstract double perimeter();
+
+    public int compareTo(Shape other){
+        if (this.area() < other.area()){
+            return -1;
+        }else if (this.area() > other.area()){
+            return 1;
+        } else{
+            return 0;
+        }
+    }
+
     public String toString(){
         return
                 "Name: " + name + '\n' +

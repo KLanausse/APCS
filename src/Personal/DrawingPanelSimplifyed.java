@@ -671,6 +671,10 @@ public class DrawingPanelSimplifyed implements ImageObserver {
     private Timer timer;                   // animation timer
     private WindowListener windowListener;
 
+
+    public void setPosition(int x, int y){
+        frame.setLocation(x, y);
+    }
     /**
      * Constructs a drawing panel with a default width and height enclosed in a window.
      * Uses DEFAULT_WIDTH and DEFAULT_HEIGHT for the panel's size.
@@ -1032,7 +1036,8 @@ public class DrawingPanelSimplifyed implements ImageObserver {
             // if we're running in an applet or something, can't do System.exit
         }
     }
-    
+
+
     /*
      * Returns a best guess about the name of the class that constructed this panel.
      */

@@ -18,5 +18,11 @@ public class ShapesClient {
         }
 
         //^Task5: identify the index where the largest is stored in the container
+        int largestIndex = 0;
+        for (int i = 1; i < shapes.length; i++) {
+            if (shapes[largestIndex].area() < shapes[i].area())
+                largestIndex = i;
+        }
+        System.out.println(shapes[largestIndex]);
     }
 }
